@@ -1,0 +1,18 @@
+.center
+{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+}
+
+canvas
+{
+    border: 20px solid black;
+    top: 50%;
+    left: 50%;
+}
+
+canvas:hover
+{
+    cursor:crosshair;
+}
